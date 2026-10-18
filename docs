@@ -1,1 +1,18 @@
+Nome: Mateus Junqueira M  arini
+Curso: Analise e desenvolvimento de sistemas
+turno: matutino
+turma: B
+email: mateusjm@sempreceub.com
+
+A maior dificuldade das pessoas para lembrar de tarefas diárias é a falta de organização
+e planejamento para cumprilas dentro do prazo facilmente esquecendo de anotar elas e confundindo com o tanto de tarefas para fazer 
+
+O sistema permitirá que você crie um calendário com todas as tarefas pendentes e suas respectivas datas além de classificá-las por ordem de prioridade, nível de complexidade e data de entrega e poder marcar quando elas forem concluídas além de ter que fazer login para salvar o seu calendario
+
+informações que o usuário deverá digitar: título da atividade, data máxima para entrega, nível de prioridade, descrição
+
+informações mostradas ao usuário pelo sistema: calendário completo com todas as atividades programadas e suas respectivas datas de entrega além de mostrar o grau de prioridade e quantas tarefas já foram concluídas
+
+Regras: as tarefas sempre deverão possuir um nome, elas obrigatoriamente devem possuir uma data de entrega final o usuário deverá fazer login para salvar seu calendário 
+
 
